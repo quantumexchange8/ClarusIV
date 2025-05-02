@@ -11,7 +11,7 @@
                         <div class="col-xl-10 col-lg-12 col-md-12 col-sm-12 text-center m-auto" data-aos="fade-up" data-aos-duration="1500">
                             <div class="herobanner__content__wrapper">
                                 <div class="herobanner__small__text sp_bottom_20">
-                                    <span class="text__gradient">WELCOME TO TD ICAV </span>
+                                    <span class="text__gradient">WELCOME TO CLARUS IV ICAV </span>
                                 </div>
                                 <div class="herobanner__title">
                                     <h1>We are responsible for managing your financial affairs</h1>
@@ -42,7 +42,7 @@
                 <div class="col-xl-12">
                     <div class="section__title text-center sp_bottom_90">
                         <div class="herobanner__title">
-                            <h3>TD ICAV is committed to growing our client’s wealth through our deeply embedded culture of service and client centricity.</h3>
+                            <h3>CLARUS IV is committed to growing our client’s wealth through our deeply embedded culture of service and client centricity.</h3>
                         </div>
                         <div class="section__title__text">
                             <p>Our investment approach is hands-on and straightforward. We rely on our own first-hand research. </p>

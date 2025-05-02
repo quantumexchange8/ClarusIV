@@ -41,7 +41,7 @@
             </div>
             <div class="col-xl-7 col-lg-7 col-md-12 col-sm-12" data-aos="fade-up" data-aos-duration="1500">
                 <div class="">
-                    <p>Please fill out the contact form below and we will connect you with an TD ICAV team member.</p>
+                    <p>Please fill out the contact form below and we will connect you with an CLARUS IV team member.</p>
                 </div>
                 <div class="contact__input__wrapper contact__grident__bg">
                     <form id="contact-form" class="contact-form" action="{{ url('mail') }}" method="post">
@@ -95,7 +95,7 @@
             <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 contact__info__right" data-aos="fade-up" data-aos-duration="1500">
                 <div class="contact__info">
                     <div class="contact__single__item" data-aos="fade-up" data-aos-duration="1500">
-                        <a href = "https://registers.centralbank.ie/FundRegisterDataPage.aspx?fundReferenceNumber=C417775&register=50" target="blank">
+                        <a href = "https://registers.centralbank.ie/FundRegisterDataPage.aspx?fundReferenceNumber=C417768&register=50" target="blank">
                             <div class="contact__icon">
                                 <span>
                                     <svg width="30" height="30" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-gavel">
@@ -116,15 +116,15 @@
                             </div>
                         </a>
                         <div class="contact__text">
-                            <a href = "https://registers.centralbank.ie/FundRegisterDataPage.aspx?fundReferenceNumber=C417775&register=50" target="blank">
+                            <a href = "https://registers.centralbank.ie/FundRegisterDataPage.aspx?fundReferenceNumber=C417768&register=50" target="blank">
                             <h6>Registry Code:</h6>
-                            <p>C417775</p>
+                            <p>C417768</p>
                             </a>
                         </div>
                     </div>
 
                     <div class="contact__single__item" data-aos="fade-up" data-aos-duration="1500">
-                        <a href = "https://lei-ireland.ie/detailed-information/42889800/254900G6NYFVOQQSVT12/TD ICAV/" target="blank">
+                        <a href = "https://lei-ireland.ie/detailed-information/35566297/222100D6MHJOA5XP5921/clarus-iv-icav/" target="blank">
                             <div class="contact__icon">
                                 <span>
                                     <svg width="30" height="30" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-gavel">
@@ -153,9 +153,9 @@
                             </div>
                         </a>
                         <div class="contact__text">
-                            <a href = "https://lei-ireland.ie/detailed-information/42889800/254900G6NYFVOQQSVT12/TD ICAV/" target="blank">
+                            <a href = "https://lei-ireland.ie/detailed-information/35566297/222100D6MHJOA5XP5921/clarus-iv-icav/" target="blank">
                             <h6>Legal Entity Identifier (LEI):</h6>
-                            <p>254900G6NYFVOQQSVT12</p>
+                            <p>222100D6MHJOA5XP5921</p>
                             </a>
                         </div>
                     </div>
@@ -220,8 +220,8 @@
                         </div>
                         <div class="contact__text">
                             <h6>Location:</h6>
-                            <p>33 Sir John Rogerson's Quay,</p>
-                            <p>Dublin, Ireland, D02 XK09</p>
+                            <p>30 Herbert St, 2nd Floor, </p>
+                            <p>Dublin, D02 W329, Ireland</p>
                         </div>
                     </div>
                 </div>
@@ -239,7 +239,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2381.8425081139467!2d-6.243655723709585!3d53.346075374744295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e92af25460f%3A0x3df35b4e7703eadb!2s33%20Sir%20John%20Rogerson&#39;s%20Quay%2C%20Grand%20Canal%20Dock%2C%20Dublin%2C%20D02%20XK09%2C%20Ireland!5e0!3m2!1sen!2smy!4v1726797984412!5m2!1sen!2smy" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed/v1/place?q=30+Herbert+St,+2nd+Floor,+Dublin,+D02+W329,+Ireland&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </div>

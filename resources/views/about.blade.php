@@ -40,7 +40,7 @@
                                     </div>
                                 </div>
                                 <div class="about__vision__wrapper sp_top_60">
-                                    <h6>TD ICAV's Chief Executive Officers</h6>
+                                    <h6>CLARUS IV's Chief Executive Officers</h6>
                                 </div>
                                 <div class="about__text__2">
                                     <p>John O’Reilly and Ian Murphy are two investment experts with a remarkable career in the investment sector and a high level of experience. They facilitated the organization's establishment. They introduced the concept of a wealth management business. </p>

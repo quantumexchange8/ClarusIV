@@ -12,9 +12,9 @@ Please note that this is an automated email response. If you have any further qu
 Thank you for your patience, and we hope you have a great day.
 
 Best regards,  
-<strong>TD ICAV</strong>
+<strong>CLARUS IV</strong>
 
-Location: 33 Sir John Rogerson's Quay, Dublin, Ireland, D02 XK09
+Location: 30 Herbert St, 2nd Floor,  Dublin, D02 W329, Ireland
 
 Call Us: <a href="tel:+35315259775">+353 1525 9775</a>
 @endcomponent

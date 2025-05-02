@@ -6,13 +6,13 @@
                     <div class="col-xl-8 col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1500">
                         <div class="footer__widget footer__left">
                             <div class="footercompany__logo">
-                                <img src="img\company logo\TD-portrait-white.png" alt="">
+                                <img src="img\company logo\Clarus-portrait-white.png" alt="">
                             </div>
                             <div class="footer__menu">
-                                <p class="text-white">33 Sir John Rogerson's Quay,<br> Dublin, Ireland, D02 XK09</p>
+                                <p class="text-white">30 Herbert St, 2nd Floor, <br> Dublin, D02 W329, Ireland</p>
                                 <br>
-                                <p>TD ICAV is licensed and registered by the Central Bank of Ireland - <a href="https://registers.centralbank.ie/FundRegisterDataPage.aspx?fundReferenceNumber=C417775&register=50">Reference No: C417775 </a> </p>
-                                <p><a href ="https://lei-ireland.ie/detailed-information/42889800/254900G6NYFVOQQSVT12/TD ICAV/">LEI (Legal Entity Identifier) Code: 254900G6NYFVOQQSVT12</a></p> 
+                                <p>CLARUS IV is licensed and registered by the Central Bank of Ireland - <a href="https://registers.centralbank.ie/FundRegisterDataPage.aspx?fundReferenceNumber=C417768&register=50">Reference No: C417768 </a> </p>
+                                <p><a href ="https://lei-ireland.ie/detailed-information/35566297/222100D6MHJOA5XP5921/clarus-iv-icav/">LEI (Legal Entity Identifier) Code: 222100D6MHJOA5XP5921</a></p> 
                             </div>
                         </div>
                     </div>
@@ -51,14 +51,14 @@
                 <div class="row align-items-center">
                     <div class="col-xl-6 col-lg-6 col-md-6 col-12">
                         <div class="copyright__left">
-                            <p>Copyright © <a href="/">TD ICAV</a> All Rights Reserved</p>
+                            <p>Copyright © <a href="/">CLARUS IV</a> All Rights Reserved</p>
                         </div>
                     </div>
                     {{-- <div class="col-xl-6 col-lg-6 col-md-6 col-12">
                         <div class="copyright__right">
                             <ul>
                                 <li>
-                                    <p>TD ICAV is licensed and registered by central bank of Ireland <a href="https://registers.centralbank.ie/FundRegisterDataPage.aspx?fundReferenceNumber=C417775&register=50"> ref number C417775 </a> </p>
+                                    <p>CLARUS IV is licensed and registered by central bank of Ireland <a href="https://registers.centralbank.ie/FundRegisterDataPage.aspx?fundReferenceNumber=C417768&register=50"> ref number C417768 </a> </p>
                                 </li>
                                 <li>
                                     <a href="#">Terms & Conditions</a>
