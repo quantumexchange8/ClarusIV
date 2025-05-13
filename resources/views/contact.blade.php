@@ -194,7 +194,7 @@
                         </div>
                         <div class="contact__text">
                             <h6>Call Us:</h6>
-                            <p>+353 1525 9775</p>
+                            <p>+353 1525 9660 </p>
                         </div>
                     </div>
 
@@ -220,8 +220,8 @@
                         </div>
                         <div class="contact__text">
                             <h6>Location:</h6>
-                            <p>30 Herbert St, 2nd Floor, </p>
-                            <p>Dublin, D02 W329, Ireland</p>
+                            <p>32 Molesworth Street, </p>
+                            <p>Dublin, D02 Y512, Ireland </p>
                         </div>
                     </div>
                 </div>

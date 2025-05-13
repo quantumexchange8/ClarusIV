@@ -9,9 +9,9 @@
                                 <img src="img\company logo\Clarus-portrait-white.png" alt="">
                             </div>
                             <div class="footer__menu">
-                                <p class="text-white">30 Herbert St, 2nd Floor, <br> Dublin, D02 W329, Ireland</p>
+                                <p class="text-white">32 Molesworth Street, <br> Dublin, D02 Y512, Ireland </p>
                                 <br>
-                                <p>CLARUS IV is licensed and registered by the Central Bank of Ireland - <a href="https://registers.centralbank.ie/FundRegisterDataPage.aspx?fundReferenceNumber=C417768&register=50">Reference No: C417768 </a> </p>
+                                <p>Clarus IV ICAV is licensed and registered by the Central Bank of Ireland - <a href="https://registers.centralbank.ie/FundRegisterDataPage.aspx?fundReferenceNumber=C417768&register=50">Reference No: C417768 </a> </p>
                                 <p><a href ="https://lei-ireland.ie/detailed-information/35566297/222100D6MHJOA5XP5921/clarus-iv-icav/">LEI (Legal Entity Identifier) Code: 222100D6MHJOA5XP5921</a></p> 
                             </div>
                         </div>
@@ -51,14 +51,14 @@
                 <div class="row align-items-center">
                     <div class="col-xl-6 col-lg-6 col-md-6 col-12">
                         <div class="copyright__left">
-                            <p>Copyright © <a href="/">CLARUS IV</a> All Rights Reserved</p>
+                            <p>Copyright © <a href="/">Clarus IV ICAV </a> All Rights Reserved</p>
                         </div>
                     </div>
                     {{-- <div class="col-xl-6 col-lg-6 col-md-6 col-12">
                         <div class="copyright__right">
                             <ul>
                                 <li>
-                                    <p>CLARUS IV is licensed and registered by central bank of Ireland <a href="https://registers.centralbank.ie/FundRegisterDataPage.aspx?fundReferenceNumber=C417768&register=50"> ref number C417768 </a> </p>
+                                    <p>Clarus IV ICAV  is licensed and registered by central bank of Ireland <a href="https://registers.centralbank.ie/FundRegisterDataPage.aspx?fundReferenceNumber=C417768&register=50"> ref number C417768 </a> </p>
                                 </li>
                                 <li>
                                     <a href="#">Terms & Conditions</a>
